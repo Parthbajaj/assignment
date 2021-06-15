@@ -155,6 +155,8 @@ nav{
 
 .events{
     background-image: url(bg.png);
+	background-size:cover;
+	background-repeat:no-repeat;
     
 }
 
