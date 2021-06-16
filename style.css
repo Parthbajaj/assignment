@@ -452,7 +452,7 @@ nav{
 
     /* menu */
 
-    .fa-twitter, .fa-linkedin, .fa-facebook{
+    .social{
         display: none;
     }
 
