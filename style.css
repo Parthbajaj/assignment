@@ -460,6 +460,7 @@ nav{
         justify-content: center;
         align-items: center;
         padding-top: 20px;
+	padding-left:100px
     }
 
     .menu h4{
