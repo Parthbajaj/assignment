@@ -223,7 +223,7 @@ nav{
 }
 
 
-.card{
+.card, .card1{
     padding: 20px;
 }
 
@@ -507,7 +507,6 @@ nav{
     }
 
     .small-card{
-        padding: 20px;
         margin-left: -47px;
         margin-bottom: 50px;
     }
@@ -530,5 +529,10 @@ nav{
         margin-top: 0;
         padding: 20px;
     }
+	
+	
+.card1{
+    padding: 0;
+}
 
 }
