@@ -536,5 +536,16 @@ nav{
 .card1{
     padding: 0;
 }
+	
+	
+	.back{
+    background-color: #b2a08c77;
+   
+    padding-left: 30px;
+    padding-right: 10px;
+    padding-top: 100px;
+    height: 400px;
+}
+
 
 }
